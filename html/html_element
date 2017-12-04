@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>The Lord is Good</title>
+</head>
+<body>
+<header style="background-color: green">
+    <h1>HTML5 Web Page</h1>
+</header>
+<nav style="background-color:lightblue">
+    <a href="">Home</a>
+    <a href="">About Us</a>
+    <a href="">Service</a>
+    <a href="">Contact</a>
+</nav>
+<main style="background-color: mediumpurple">
+    <section style="background-color: red">
+        <h1>This heading 1</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aut corporis cupiditate, deserunt, dicta dolor dolores ducimus eius explicabo id numquam omnis quasi quisquam ratione suscipit, temporibus unde veniam voluptate?</p>
+    </section>
+
+    <article style="background-color: yellow">
+        <h3>This is heading 3</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium architecto commodi cum delectus eum ex fuga, fugiat hic laudantium, magnam nobis omnis placeat recusandae repellat repellendus reprehenderit repudiandae sit tenetur?</p>
+        <aside style="background-color: lightgreen">
+            <ul>
+                <li>Hmtl5</li>
+                <li>Css</li>
+                <li>PHP</li>
+                <li></li>
+            </ul>
+        </aside>
+    </article>
+</main>
+<footer style="background-color: gray">
+    Copyright &copy; 2017
+</footer>
+</body>
+</html>

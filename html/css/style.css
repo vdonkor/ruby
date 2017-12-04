@@ -1,0 +1,18 @@
+body {
+    background-color: bisque;
+}
+ul li.item {
+   color: red;
+}
+a:link {
+    color: grey;
+}
+a:visited {
+    color: green;
+}
+a:hover {
+    color: darkturquoise;
+}
+a:active {
+    color:red;
+}
