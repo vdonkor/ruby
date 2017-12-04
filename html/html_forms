@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>The Lord is Good</title>
+</head>
+<body>
+<form action="" method="">
+    <label for="username">Username:</label>
+    <input type="text" name="username" placeholder="Enter Username" disabled ><br><br>
+    <label for="password">Password</label>
+    <input type="password" name="password"><br><br>
+
+    <label for="email">E-mail:</label>
+    <input type="email" name="email"><br><br>
+
+    <label for="phone">Phone:</label>
+    <input type="tel" name="phone"><br><br>
+
+    <label for="quantity">Quantity:</label>
+    <input type="number" name="quantity" min="1" max="10"><br><br>
+
+    <label for="color">Select Color</label>
+    <input type="color" name="color"> <br><br>
+
+    <label for="date">Choose Date</label>
+    <input type="date" name="date"><br><br>
+
+    <label for="file">Upload File</label>
+    <input type="file" name="file"><br><br>
+
+    <label>Select gender:</label>
+    <input type="radio" name="gender" value="male">Male
+    <input type="radio" name="gender" value="female">Female <br><br>
+
+    <label for="">Select</label>
+    <input type="checkbox" name="html5" value="html5" checked>HTML5
+    <input type="checkbox" name="css" value="css">CSS
+    <input type="checkbox" name="js" value="js">JS
+    <br><br>
+    <label for="">Select Budget:</label>
+    <select name="budget" id="">
+        <option value="$1000.00">$1000.00</option>
+        <option value="$2000.00">$2000.00</option>
+        <option value="$3000.00">$3000.00</option>
+    </select> <br><br>
+    <label for="textarea">Message</label>
+    <textarea name="comment" id="" cols="50" rows="5"> Leave Comment...</textarea>
+    <br><br>
+    <input type="submit" name="submit" value="Submit"> <br><br>
+    <button type="button">Click Button</button>
+
+
+</form>
+</body>
+</html>
